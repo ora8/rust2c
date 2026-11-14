@@ -1,0 +1,22 @@
+ggt(1071, 462) = 21
+x = 30
+collatz(1) braucht 0 Schritte
+collatz(2) braucht 1 Schritte
+collatz(3) braucht 7 Schritte
+collatz(4) braucht 2 Schritte
+collatz(5) braucht 5 Schritte
+collatz(6) braucht 8 Schritte
+collatz(7) braucht 16 Schritte
+collatz(8) braucht 3 Schritte
+collatz(9) braucht 19 Schritte
+collatz(10) braucht 6 Schritte
+bits = 90, verschoben = 104, negiert = 165
+gerade(7) = false, gerade(8) = true
+-17 / 5 = -3, -17 % 5 = -2
+300 als u8 = 44, -1 als u32 = 4294967295
+true als i32 = 1
+Summe = 31, Maximum = 9, Mittel = 3
+ok = false, Vorzeichen: -1 0 1
+{wörtlich} 100% "zitiert"	Tab
+i64::MIN = -9223372036854775808, u64::MAX = 18446744073709551615
+7 14 21 28 

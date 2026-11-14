@@ -1,0 +1,8 @@
+[package]
+name = "rust2c"
+version = "0.1.0"
+edition = "2024"
+description = "Ein kleiner Compiler, der eine Teilmenge von Rust nach C übersetzt"
+license = "MIT"
+
+[dependencies]
